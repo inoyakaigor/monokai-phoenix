@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monokai Phoenix", "Monokai 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B3A55C2-95B7-41AD-834C-08E005BD5B22}"
 	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
 		Monokai-Phoenix.pkgdef = Monokai-Phoenix.pkgdef
 	EndProjectSection
 EndProject
