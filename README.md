@@ -8,5 +8,9 @@ This is autoconverted theme for Visual Studio from [Monokai Phoenix theme](https
 ![screenshot](screenshot.png)
 
 Converted with [Theme Converter for Visual Studio](https://github.com/microsoft/theme-converter-for-vs)
+
+# Issues
+I don't use Visual Studio a lot so if you see a bug don't wait and make a PR!
+
 # License
 MIT
